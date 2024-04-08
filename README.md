@@ -4,9 +4,9 @@
 <h1>Hi 👋 My name is Bhavesh Dalvi</h1>
 <h1>Software Developer</h1>
 
-
-🚀 I'm a passionate software developer with a keen interest in exploring the latest technologies and creating innovative solutions. My expertise lies in web devlopment and cloud computing, and I'm always excited to learn and grow in this dynamic field.<br/> 
-🌱 Currently, I'm looking forward to contributing to impactful projects and collaborating with like-minded developers.<br/> 
+<br/>
+🚀 I'm a passionate software developer with a keen interest in exploring the latest technologies and creating innovative solutions. My expertise lies in web devlopment and cloud computing, and I'm always excited to learn and grow in this dynamic field.<br/><br/>
+🌱 Currently, I'm looking forward to contributing to impactful projects and collaborating with like-minded developers.<br/><br/> 
 👨‍💻 Take a look at my GitHub repositories to see some of my projects and feel free to reach out if you'd like to connect or collaborate!<br/> 
 
 * 🌍  I'm based in India
