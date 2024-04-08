@@ -2,7 +2,6 @@
 <img align="right" alt="Coding" width="400" src="https://img.freepik.com/free-vector/code-typing-concept-illustration_114360-3581.jpg?w=740"/>
 
 <h1>Hi 👋 My name is Bhavesh Dalvi</h1>
-<h1>Software Developer</h1>
 
 <br/>
 🚀 I'm a passionate software developer with a keen interest in exploring the latest technologies and creating innovative solutions. My expertise lies in web devlopment and cloud computing, and I'm always excited to learn and grow in this dynamic field.<br/><br/>
