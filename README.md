@@ -1,5 +1,5 @@
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207..."/>
+<img align="right" alt="Coding" width="400" src="https://img.freepik.com/free-vector/code-typing-concept-illustration_114360-3581.jpg?w=740"/>
 
 Hi 👋 My name is Bhavesh Dalvi
 ==============================
