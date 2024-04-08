@@ -1,13 +1,13 @@
 
 <img align="right" alt="Coding" width="400" src="https://img.freepik.com/free-vector/code-typing-concept-illustration_114360-3581.jpg?w=740"/>
 
-Hi 👋 My name is Bhavesh Dalvi
-==============================
+<h1>Hi 👋 My name is Bhavesh Dalvi</h1>
+<h1>Software Developer</h1>
 
-Software Developer
-------------------
 
-🚀 I'm a passionate software developer with a keen interest in exploring the latest technologies and creating innovative solutions. My expertise lies in web devlopment and cloud computing, and I'm always excited to learn and grow in this dynamic field. 🌱 Currently, I'm looking forward to contributing to impactful projects and collaborating with like-minded developers. 👨‍💻 Take a look at my GitHub repositories to see some of my projects and feel free to reach out if you'd like to connect or collaborate!
+🚀 I'm a passionate software developer with a keen interest in exploring the latest technologies and creating innovative solutions. My expertise lies in web devlopment and cloud computing, and I'm always excited to learn and grow in this dynamic field.<br/> 
+🌱 Currently, I'm looking forward to contributing to impactful projects and collaborating with like-minded developers.<br/> 
+👨‍💻 Take a look at my GitHub repositories to see some of my projects and feel free to reach out if you'd like to connect or collaborate!<br/> 
 
 * 🌍  I'm based in India
 * ✉️  You can contact me at [dalvibhavesh007@gmail.com](mailto:dalvibhavesh007@gmail.com)
