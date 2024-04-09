@@ -10,6 +10,11 @@
 🌍  I'm based in India<br/><br/>
 ✉️  You can contact me at [dalvibhavesh007@gmail.com](mailto:dalvibhavesh007@gmail.com)
 
+<h1 align="center">
+   Stats
+</h1>
+
+
 <p align="center">
 <a  href="http://www.github.com/DalviBhavesh"><img src="https://github-readme-streak-stats.herokuapp.com/?user=DalviBhavesh&stroke=ffffff&background=000000&ring=84cc16&fire=84cc16&currStreakNum=ffffff&currStreakLabel=84cc16&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 </p>
