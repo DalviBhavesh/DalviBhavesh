@@ -1,8 +1,8 @@
-<h1>
+
  
  ![banner](banner.png)
  
-</h1>
+<hr/>
 
 
 
@@ -14,6 +14,7 @@
 👨‍💻 Take a look at my GitHub repositories to see some of my projects and feel free to reach out if you'd like to connect or collaborate!<br/><br/>
 🌍  I'm based in India<br/><br/>
 ✉️  You can contact me at <a href="mailto:dalvibhavesh007@gmail.com">dalvibhavesh007@gmail.com</a>
+
 
 <h1 align="center">
    Stats
