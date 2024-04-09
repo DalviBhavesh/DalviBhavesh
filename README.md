@@ -1,4 +1,4 @@
-<br/>
+
 <h1 align="center">Hi 👋 My name is Bhavesh Dalvi</h1>
 <br/>
 
