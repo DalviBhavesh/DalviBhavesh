@@ -9,11 +9,11 @@
 
 <br/>
 <strong>
-🚀 I'm a passionate software developer with a keen interest in exploring the latest technologies and creating innovative solutions. My expertise lies in web devlopment and cloud computing, and I'm always excited to learn and grow in this dynamic field.<br/><br/>
- 🌱 Currently, I'm looking forward to contributing to impactful projects and collaborating with like-minded developers.<br/><br/> 
-👨‍💻 Take a look at my GitHub repositories to see some of my projects and feel free to reach out if you'd like to connect or collaborate!<br/><br/>
-🌍  I'm based in India<br/><br/>
-✉️  You can contact me at <a href="mailto:dalvibhavesh007@gmail.com">dalvibhavesh007@gmail.com</a>
+🚀 Passionate software developer exploring latest technologies, specializing in web development and cloud computing.<br/><br/>
+🌱 Looking forward to contributing to impactful projects and collaborating with like-minded developers.<br/><br/> 
+👨‍💻 Check out my GitHub repositories to see my projects and feel free to reach out for collaboration!<br/><br/>
+🌍 I'm based in India<br/><br/>
+✉️ You can contact me at <a href="mailto:dalvibhavesh007@gmail.com">dalvibhavesh007@gmail.com</a>
 <strong/>
 
 
