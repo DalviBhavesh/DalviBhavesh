@@ -1,4 +1,4 @@
-<img align="right" alt="Coding" width="500" src=""/>
+![banner](banner.png)
 
 <h1 align="center">Hi 👋 My name is Bhavesh Dalvi</h1>
 
