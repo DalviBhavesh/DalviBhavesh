@@ -8,13 +8,13 @@
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/75851313/151668395-5591532b-28da-46a6-9476-7c9694bcb60e.gif"/>
 
 <br/>
-<strong>
+
 🚀 Passionate software developer exploring latest technologies, specializing in web development and cloud computing.<br/><br/>
 🌱 Looking forward to contributing to impactful projects and collaborating with like-minded developers.<br/><br/> 
 👨‍💻 Check out my GitHub repositories to see my projects and feel free to reach out for collaboration!<br/><br/>
 🌍 I'm based in India<br/><br/>
 ✉️ You can contact me at <a href="mailto:dalvibhavesh007@gmail.com">dalvibhavesh007@gmail.com</a>
-<strong/>
+
 
 
 <h1 align="center">
