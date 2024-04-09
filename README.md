@@ -1,7 +1,5 @@
 ![banner](banner.png)
 
-<h1 align="center">Hi 👋 My name is Bhavesh Dalvi</h1>
-
 
 <img align="right" alt="Coding" width="500" src="https://user-images.githubusercontent.com/75851313/151668395-5591532b-28da-46a6-9476-7c9694bcb60e.gif"/>
 
