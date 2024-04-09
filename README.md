@@ -16,7 +16,7 @@
 ✉️ You can contact me at <a href="mailto:dalvibhavesh007@gmail.com">dalvibhavesh007@gmail.com</a>
 
 
-
+<hr/>
 <h1 align="center">
    Stats
 </h1>
