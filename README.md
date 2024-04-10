@@ -1,7 +1,7 @@
 
 
   
- ![banner](banner.png) 
+ [![banner](banner.png)](https://www.linkedin.com/in/bhavesh-dalvi-a74758244/) 
  
 
  
