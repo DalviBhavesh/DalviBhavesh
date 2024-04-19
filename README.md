@@ -12,7 +12,7 @@
 🌱 Currently, I'm looking forward to contributing to impactful projects and collaborating with like-minded developers.
 <br/><br/> 
 👨‍💻 Take a look at my GitHub repositories to see some of my projects and feel free to reach out if you'd like to connect or collaborate!<br/><br/>
-🌍 I'm based in India<br/><br/>
+🌍 I'm based in india<br/><br/>
 ✉️ You can contact me at <a href="mailto:dalvibhavesh007@gmail.com">dalvibhavesh007@gmail.com</a>
 
 
